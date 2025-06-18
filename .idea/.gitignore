@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/venv/
+/.idea/
+/.env.local
+/tests/data/*.png
+__pycache__/
+.vscode/
